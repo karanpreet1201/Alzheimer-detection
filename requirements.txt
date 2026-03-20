@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+pydantic
+joblib
+sqlalchemy
+pymysql
+passlib
+bcrypt
+python-multipart
+email-validator
+PyJWT
+cryptography

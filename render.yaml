@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: alzheimers-backend
+    env: docker
+    dockerfilePath: ./backend.Dockerfile
+    plan: free
+
+  - type: web
+    name: alzheimers-frontend
+    env: docker
+    dockerfilePath: ./frontend.Dockerfile
+    plan: free
