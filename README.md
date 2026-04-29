@@ -1,9 +1,9 @@
-#Authors
+# Authors
 
-Karanpreet Singh -  2210990482
-Karishma Dhawan -   2210990483
-Kanishk Kharbanda - 2210990472
-Jasmine Rathor -    2210990450
+## Karanpreet Singh -  2210990482
+## Karishma Dhawan -   2210990483
+## Kanishk Kharbanda - 2210990472
+## Jasmine Rathor -    2210990450
 
 # Early Diagnosis of Alzheimer’s Disease Using Machine Learning
 
