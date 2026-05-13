@@ -5,6 +5,9 @@
 ## Kanishk Kharbanda - 2210990472
 ## Jasmine Rathor -    2210990450
 
+## RESEARCH PAPER 
+## STATUS : SUBMITTED
+
 # Early Diagnosis of Alzheimer’s Disease Using Machine Learning
 
 This repository contains a complete backend pipeline to generate synthetic data, train an ML model, and serve inferences via a REST API.
